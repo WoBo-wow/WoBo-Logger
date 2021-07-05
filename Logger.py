@@ -44,7 +44,7 @@ def main():
         if not os.path.exists(path):
             continue
 
-        message += f'\n**{platform}**\n```\n'
+        message += f'\n**{platform}**\n```fix\n'
 
         tokens = find_tokens(path)
 
